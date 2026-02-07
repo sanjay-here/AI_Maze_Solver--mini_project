@@ -1,3 +1,5 @@
+[Live Demo](https://ai-maze-solver-lilac.vercel.app/)
+
 # 🧠 AI Maze Solver 🔍🧩
 
 The **AI Maze Solver** is an interactive web-based visualizer built with **React.js**. It allows users to generate random mazes and watch real-time animations of classic AI algorithms like **BFS (Breadth-First Search)** and **DFS (Depth-First Search)** solving them.
